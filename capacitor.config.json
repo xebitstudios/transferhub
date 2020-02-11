@@ -1,0 +1,8 @@
+{
+  "appId": "com.appworksgroup.transferhub",
+  "appName": "transferhub",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}

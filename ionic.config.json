@@ -1,0 +1,9 @@
+{
+  "name": "transferhub",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "24b14e06"
+}
